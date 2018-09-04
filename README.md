@@ -1,3 +1,3 @@
 # hello-world
-My first repository /n
+My first repository \n
 This is only for learn how this thing works...
